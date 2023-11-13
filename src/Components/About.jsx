@@ -27,10 +27,8 @@ const About = () => {
             <div>
               <p>
                 {" "}
-                A software developer with experience in building Responsive and
-                Scalable Web apps. I am well-knowledged in UI/UX principles and
-                practices. In addition to software development, I am also a
-                technical writer--simplifying topics/concepts on the web.
+                A Software Engineer with passion in Web Development and eventually become a Full-Stack Developer.
+                I bring a strong foundation in front-end and back-end technologies. Proficient in HTML, CSS, and JavaScript, and frameworks such as React and Node JS.
               </p>
             </div>
           </div>
